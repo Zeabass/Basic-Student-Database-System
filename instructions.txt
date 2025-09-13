@@ -1,0 +1,11 @@
+This project has simple commands to use the program.
+
+1. add student (add a student to the database)
+2. add grade (adds a grade to a certain student)
+3. display (displays all students nicely)
+4. display averages (displays student grade averages)
+5. adjust grades (adjusts grades for all students)
+6. top/bottom students (displats top and bottom student averages)
+7. delete (deletes a student)
+8. count students (counts students in database)
+9. leave (exits the program)
