@@ -1,3 +1,5 @@
+I made this project to reinforce my skills in python, specifically in improving writing cohesive readible code.
+
 Title: Student Database System
 Tools used: Python, built-in libraries
 
