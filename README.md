@@ -1,2 +1,4 @@
 # Basic-Student-Database-System
-I made this project for a course, primarly to reinforce a few core concepts of python and work on making cohesive readable code.
+Title: Student Database System
+Tools used: Python, built-in libraries
+Description: I made this project to reinforce my skills in python, specifically to improve writing cohesive readible code.
