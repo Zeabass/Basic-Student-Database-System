@@ -1,4 +1,7 @@
-This project has simple commands to use the program.
+Title: Student Database System
+Tools used: Python, built-in libraries
+
+Features:
 
 1. add student (add a student to the database)
 2. add grade (adds a grade to a certain student)
